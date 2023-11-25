@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700304078722,
+      "tag": "0000_great_umar",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700910097169,
+      "tag": "0001_solid_radioactive_man",
+      "breakpoints": true
+    }
+  ]
+}
